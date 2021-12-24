@@ -1,5 +1,17 @@
 # MyReference
 
+<!--[[Link]()] -->
+
+## TechBlog
+- 네이버 하이퍼 커넥트 - [[Link](https://hyperconnect.github.io/)]
+- Netflix - [[Link](https://netflixtechblog.com/)]
+- 우아한 형제들 - [[Link](https://techblog.woowahan.com/)]
+- 카카오 - [[Link](https://tech.kakao.com/blog/)]
+- ESTSoft - [[Link](https://blog.est.ai/)]
+- SOCAR - [[Link](https://tech.socarcorp.kr/)]
+- Riiid - [[Link](https://riiidtechblog.medium.com/)]
+- 당근마켓 - [[Link](https://medium.com/daangn)]
+
 ## ML/DL
 
 ## PyTroch
