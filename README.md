@@ -8,7 +8,8 @@
 
 ## MLOps
 - 모두의 MLOps - [[Link](https://mlops-for-all.github.io/docs/prologue/welcome/)]
-- 쿠버네티스 안내서 - [[Link](https://subicura.com/k8s/)]
+- 쿠버네티스 안내서 - [[Link](https://subicura.com/k8s/)] 
+- 초고성능 딥러닝 클러스터 구축하기 1편 - [[Link](https://hyperconnect.github.io/2020/12/21/deep-learning-cluster-1.html)] 
 
 # CV
 -
