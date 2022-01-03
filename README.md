@@ -18,7 +18,7 @@
 
 ## PyTroch
 - PyTorch Multi-GPU 제대로 학습하기(당근) - [[Link](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)]
-
+- Data Loader, Better, Faster, Stronger - [[Link](https://d2.naver.com/helloworld/3773258)]
 
 ## MLOps
 - 모두의 MLOps - [[Link](https://mlops-for-all.github.io/docs/prologue/welcome/)]
